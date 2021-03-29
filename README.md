@@ -63,9 +63,13 @@ $ git clone https://github.com/LeonneBrito/ig.news.git
 ```bash
 # Install Dependencies
 $ yarn
+```
+Rename the .env.example file to .env.local and add the necessary environment variables.
 
+```bash
 $ yarn dev
 ```
+
 Go to http://localhost:3000/ to see the result.
 
 # :bug: Issues
