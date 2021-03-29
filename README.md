@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  :moneybag: Manage your money. Project developed during the second Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
+   :newspaper: Subscription site for text consumption and tech news. Project developed during the third Bootcamp Ignite module | <a href="https://github.com/Rocketseat">@Rocketseat</a>
 </p>
 
 <div align="center">
