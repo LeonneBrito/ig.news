@@ -44,7 +44,7 @@ export default function Posts({ posts }: PostsProps) {
                 : `/posts/preview/${post.slug}`
               }
             >
-              <a key={post.slug}>
+              <a>
                 <time>{ post.updateAt }</time>
                 <strong>{ post.title }</strong>
                 <p> {post.excerpt }</p>
